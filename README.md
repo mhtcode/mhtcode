@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masih Tanoursaz</h1>
+<h1 align="center">Hi 👋, I'm Masih</h1>
 <h3 align="center">A passionate programmer :D</h3>
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/mhtcode/mhtcode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mhtcode/mhtcode/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, English etc.**
 
-- 👯 I’m looking to collaborate on [pulp social media](https://github.com/AP-projects-4001/Pulp-Fiction)
+- 👯 I’m looking to collaborate on [pulp social media.](https://github.com/AP-projects-4001/Pulp-Fiction)
 
 - 💬 Ask me about **AI, ML, CAR TECH.**
 
