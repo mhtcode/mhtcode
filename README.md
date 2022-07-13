@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my skills, knowledge and community relations.**
 
-- 🌱 I’m currently learning **Frameworks, English etc.**
+- 🌱 I’m currently learning **Python, Frameworks, English etc.**
 
 - 👯 I’m looking to collaborate on [pulp social media.](https://github.com/AP-projects-4001/Pulp-Fiction)
 
@@ -20,7 +20,7 @@
 - ⚡ Fun fact **You are always living in the past.**
 
 
-<h3 align="left">I know a little about these tools & technologies</h3>
+<h3 align="left">I know a little about these tools & technologies:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
