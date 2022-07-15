@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masih</h1>
 <h3 align="center">A passionate programmer :D</h3>
 
-<!--![github contribution grid snake animation](https://raw.githubusercontent.com/mhtcode/mhtcode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mhtcode/mhtcode/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
+![github contribution grid snake animation](https://github.com/mhtcode/mhtcode/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtcode&label=Profile%20views&color=0e75b6&style=flat" alt="mhtcode" /> </p>
 
