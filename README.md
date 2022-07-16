@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhtcode.mhtcode">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhtcode.mhtcode">-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhtcode&label=Profile%20views&color=0e75b6&style=flat" alt="mhtcode" /> 
 </p>
