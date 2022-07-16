@@ -114,7 +114,7 @@
 
 <hr>
 
-<h3 align="center"> Daylily Random comic strip </h3>
+<h3 align="center"> Daily Random comic strip </h3>
 <p align="center">
  <a href="https://xkcd.com/">
  <img src="https://imgs.xkcd.com/comics/the_best_camera.png" />
