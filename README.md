@@ -49,7 +49,7 @@
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=solidity,docker,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=docker,django,mysql" />
   </a>
 </p>
 <hr>
