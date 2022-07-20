@@ -42,7 +42,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,qt,html,css,visualstudio,vscode,vim,atom,linux,git,github,linkedin,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,qt,html,css,visualstudio,vscode,vim,linux,git,github,linkedin,sqlite" /><br>
   </a>
 </p>
 <br>
