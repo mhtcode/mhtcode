@@ -9,8 +9,6 @@
 </h1>
 
 <p align="center">
-- Hi, I'm Masih Tanoursaz, CE Student/Coder/Learner 👨‍💻 &  gamer  from Iran IR
-<br>
 - 🎓 Bachelor's student in computer engineering at the <a href="http://english.iut.ac.ir/"> Isfahan University of Technology.</a>
 <br>
 <br>
