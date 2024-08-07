@@ -40,7 +40,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,qt,docker,vscode,vim,linux,git,github,linkedin,sqlite,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,qt,python,docker,vscode,linux,git,postgresql" /><br>
   </a>
 </p>
 <br>
