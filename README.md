@@ -1,7 +1,7 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhtcode.mhtcode">-->
-<p align="left"> 
+<!--<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhtcode&label=Profile%20views&color=0e75b6&style=flat" alt="mhtcode" /> 
-</p>
+</p>-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Masih!;A+passionate+programmer😍+;&center=true&size=28">
@@ -40,14 +40,14 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,qt,html,css,visualstudio,vscode,vim,linux,git,github,linkedin,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,qt,docker,vscode,vim,linux,git,github,linkedin,sqlite,postgresql" /><br>
   </a>
 </p>
 <br>
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker,flask,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=flask" />
   </a>
 </p>
 <hr>
@@ -109,22 +109,21 @@
 <h4 align="center">
   <a href="https://github.com/mhtcode?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+<!--
 <hr>
-
 <h3 align="center"> Daily Random comic strip </h3>
 <p align="center">
  <a href="https://xkcd.com/">
  <img src="https://imgs.xkcd.com/comics/the_best_camera.png" />
 </a>
 </p>
-
 <hr>
-
 <div>
 <h3 align="center">Support:</h3>
 <p align="center">
 <a href="https://www.buymeacoffee.com/masihtanoursaz"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="masihtanoursaz" width=210 hight=550></a>
 </p>
 </div>
+-->
+
 
