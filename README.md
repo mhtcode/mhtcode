@@ -47,7 +47,7 @@
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" />
+    <img src="https://skillicons.dev/icons?i=flask,vault" />
   </a>
 </p>
 <hr>
