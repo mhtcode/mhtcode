@@ -1,74 +1,106 @@
-html
-<h1 align="center">
-  Hi there 👋, I'm Masih
-</h1>
+
+<h1 align="center">Hi 👋, I'm Masih Tanoursaz</h1>
 
 <h3 align="center">
   Computer Engineering Graduate | DevOps & MLOps Enthusiast | Aspiring Infrastructure Engineer
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/masihtanoursaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  📍 Toronto, Ontario, Canada
+</p>
+
+<p align="center">
   <a href="mailto:masihtanoursaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/masihtanoursaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **B.Sc. Computer Engineering graduate from Isfahan University of Technology (IUT)** with a strong interest in **DevOps, MLOps, cloud-native systems, and infrastructure engineering**.
+I am a **B.Sc. Computer Engineering graduate from Isfahan University of Technology (IUT)**, currently based in **Toronto, Ontario**.
 
-I enjoy understanding how modern software systems work beyond the application layer — from containers and networking to deployment pipelines, observability, orchestration, and production infrastructure.
+I am deeply interested in **DevOps, MLOps, infrastructure engineering, cloud-native systems, and software deployment**.
 
-My long-term goal is to become an **Infrastructure Engineer** and work on reliable, scalable, and automated platforms for modern applications and AI workloads.
+My long-term goal is to become an **Infrastructure Engineer or Platform Engineer**, working on the design, deployment, automation, and operation of scalable, reliable, and production-grade systems.
 
-I am particularly interested in:
+I am especially interested in:
 
-- ☁️ DevOps and cloud-native infrastructure
-- ⚙️ Kubernetes and container orchestration
-- 🐳 Docker and containerized applications
-- 🔄 CI/CD and software delivery pipelines
-- 📊 Monitoring, observability, and system reliability
-- 🤖 AI/ML model deployment and inference infrastructure
-- 🧠 Understanding how modern AI models work in production
-- 🏗️ MLOps platforms and production ML systems
-- 🌐 Linux, networking, distributed systems, and backend infrastructure
+- DevOps and modern infrastructure
+- Kubernetes and container orchestration
+- Docker and containerized applications
+- CI/CD pipelines
+- Linux and networking
+- Monitoring and observability
+- Infrastructure as Code
+- Cloud computing
+- AI model deployment and serving
+- MLOps and ML lifecycle management
+- GPU infrastructure and AI workloads
+- Distributed systems
+- Cloud-native architecture
 
-I love learning new technologies, experimenting with them in hands-on environments, and understanding how production-grade systems are designed and operated.
+I enjoy learning new technologies through hands-on projects and real-world environments.
+
+One of my strongest interests is understanding how different tools and components fit together, why each tool exists, and where it should be used in a production architecture.
 
 ---
 
-## 🚀 What I'm Currently Learning
+## Currently Learning
 
-I am currently focusing on building practical skills around:
+I am currently focusing on:
 
 - Kubernetes
-- Docker
-- CI/CD
-- GitLab CI/CD and GitHub Actions
+- GitHub Actions
 - Linux
-- Infrastructure as Code
-- Monitoring and Observability
-- Prometheus & Grafana
-- MLOps
-- MLflow
-- KServe
-- Triton Inference Server
-- vLLM
-- Model serving and inference infrastructure
-- Cloud-native application architecture
+- Terraform
+- AWS
+- Model Deployment
 
-My goal is not only to learn individual tools, but also to understand **how they work together inside real-world production environments**.
+I am also learning AWS to better understand how production infrastructure is designed in cloud environments, especially around:
+
+- Compute
+- Networking
+- Storage
+- IAM
+- Infrastructure as Code
+
+My goal is not just to learn individual tools, but to understand how they interact inside real production systems.
 
 ---
 
-## 🛠️ Technologies & Tools
+## AI & MLOps
 
-### Languages
+Alongside DevOps and infrastructure, I am highly interested in **AI systems and model deployment**.
+
+I am especially curious about what happens after a model is trained:
+
+- How it is packaged
+- How it is versioned
+- How it is deployed
+- How it is served
+- How it is scaled
+- How GPU resources are managed
+- How it is monitored in production
+
+I currently work with and experiment with tools such as:
+
+- Triton Inference Server
+- vLLM
+- KServe
+- MLflow
+- Docker
+- Kubernetes
+
+My main interest is understanding how real-world AI infrastructure is designed and operated at scale.
+
+---
+
+## Languages
 
 <p>
   <a href="https://skillicons.dev">
@@ -76,15 +108,72 @@ My goal is not only to learn individual tools, but also to understand **how they
   </a>
 </p>
 
-### DevOps & Infrastructure
+- Python
+- Go
+- C
+- C++
+- Bash
+
+---
+
+## DevOps & Infrastructure
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx" />
   </a>
 </p>
 
-### Backend & Databases
+- Docker
+- Kubernetes
+- Linux
+- Git
+- GitHub
+- Nginx
+- CI/CD
+
+---
+
+## Cloud
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
+- AWS — Currently Learning
+
+---
+
+## Monitoring & Observability
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  </a>
+</p>
+
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+---
+
+## Infrastructure as Code
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+  </a>
+</p>
+
+- Terraform
+- Ansible
+
+---
+
+## Backend & Databases
 
 <p>
   <a href="https://skillicons.dev">
@@ -92,63 +181,79 @@ My goal is not only to learn individual tools, but also to understand **how they
   </a>
 </p>
 
-### Tools I'm Exploring
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible" />
-  </a>
-</p>
+- PostgreSQL
+- Flask
+- REST APIs
 
 ---
 
-## 🤖 AI & MLOps Interests
+## AI & MLOps Tools
 
-Alongside infrastructure engineering, I am highly interested in working with AI models and understanding how they move from experimentation into production.
-
-Some areas I am currently exploring include:
-
-- Model serving
-- GPU workloads
-- ML inference optimization
-- Containerized ML applications
-- Kubernetes-based model deployment
-- Real-time inference systems
-- Model versioning
-- ML pipelines
-- Observability for AI workloads
-- Production LLM infrastructure
-
-I enjoy experimenting with tools such as **Triton Inference Server, vLLM, KServe, MLflow, Docker, and Kubernetes** to better understand production AI systems.
+- MLflow
+- KServe
+- Triton Inference Server
+- vLLM
+- Model Serving
+- Model Deployment
+- GPU Workloads
+- AI Inference
 
 ---
 
-## 🎯 Career Goal
+## Technical Interests
 
-My goal is to grow into an **Infrastructure / Platform Engineer** with strong knowledge of both traditional software infrastructure and modern AI infrastructure.
-
-I want to work on systems that help developers and ML engineers:
-
-- deploy applications reliably
-- automate software delivery
-- run scalable workloads
-- monitor production systems
-- manage infrastructure efficiently
-- deploy and operate machine learning models
+- DevOps
+- MLOps
+- Infrastructure Engineering
+- Platform Engineering
+- Cloud Computing
+- AWS
+- Kubernetes
+- Linux
+- Networking
+- Distributed Systems
+- AI Infrastructure
+- GPU Computing
+- Model Deployment
+- Observability
+- System Reliability
 
 ---
 
-## 🧩 How I Learn
+## How I Learn
 
 I strongly believe in learning by building.
 
-Instead of only studying technologies theoretically, I try to create hands-on environments where I can deploy applications, build CI/CD pipelines, configure Kubernetes clusters, experiment with monitoring systems, and serve AI models.
+Instead of only studying tools theoretically, I prefer creating practical environments where I can experiment with them.
 
-Every project is an opportunity for me to understand another part of the infrastructure stack.
+Some examples include:
+
+- Building Kubernetes environments
+- Containerizing applications
+- Deploying backend and frontend services
+- Creating CI/CD pipelines
+- Setting up monitoring and observability
+- Serving AI models
+- Working with GPU workloads
+- Experimenting with KServe
+- Working with MLflow
+- Exploring production-like infrastructure
+
+I always try to understand:
+
+- Why a tool exists
+- What problem it solves
+- What alternatives exist
+- Where it fits in a production system
+- How it interacts with other components
+- What limitations it has
+- How it behaves at scale
+
+My goal is to grow from someone who knows how to use tools into an engineer who can understand, design, and make decisions about infrastructure architecture.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhtcode&show_icons=true&theme=github_dark&hide_border=true" />
@@ -161,7 +266,7 @@ Every project is an opportunity for me to understand another part of the infrast
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github.com/mhtcode/mhtcode/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
@@ -169,19 +274,9 @@ Every project is an opportunity for me to understand another part of the infrast
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always interested in learning from other engineers, contributing to interesting projects, and discussing:
+I am always interested in learning from other engineers, contributing to technical projects, and discussing topics related to:
 
-**DevOps • MLOps • Kubernetes • Infrastructure • Cloud Native • AI Deployment • Distributed Systems**
-
-<p align="center">
-  <a href="https://linkedin.com/in/masihtanoursaz">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:masihtanoursaz@gmail.com">
-    Email
-  </a>
-</p>
+**DevOps • MLOps • Kubernetes • Infrastructure • Cloud Native • AI Deployment • Distributed Systems • Platform Engineering**
 ```
