@@ -256,11 +256,24 @@ My goal is to grow from someone who knows how to use tools into an engineer who 
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhtcode&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtcode&theme=github-dark-blue&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=mhtcode&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Masih's GitHub stats"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=mhtcode&theme=github-dark-blue&hide_border=true"
+    alt="Masih's GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtcode&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtcode&layout=compact&theme=github_dark&hide_border=true"
+    alt="Masih's most used languages"
+  />
 </p>
+
 
