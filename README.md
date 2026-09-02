@@ -264,19 +264,3 @@ My goal is to grow from someone who knows how to use tools into an engineer who 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtcode&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/mhtcode/mhtcode/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-## Let's Connect
-
-I am always interested in learning from other engineers, contributing to technical projects, and discussing topics related to:
-
-**DevOps • MLOps • Kubernetes • Infrastructure • Cloud Native • AI Deployment • Distributed Systems • Platform Engineering**
-```
